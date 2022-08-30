@@ -1,2 +1,0 @@
-# Scraper
-Flipkart Review Scrapper
